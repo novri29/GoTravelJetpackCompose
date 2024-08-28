@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoTravelINA</string>
+    <string name="home_menu">Home</string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="profile_menu">Profile</string>
+    <string name="no_favorite">No Favorite Destination Found</string>
+    <string name="name">Novriyan Ferdiyanto</string>
+    <string name="back">Back</string>
+    <string name="add_favorite">Add to Favorite\n</string>
+    <string name="remove_favorite">Remove from Favorite\n</string>
+    <string name="email">novriyanferdiyanto@gmail.com</string>
+</resources>
